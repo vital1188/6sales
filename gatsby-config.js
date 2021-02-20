@@ -1,10 +1,10 @@
-const siteTitle = "6sales";
+const siteTitle = "ecommlist";
 const siteDescription =
-  "Sharing eCommerce tips and guides to help you build your own eCommerce website.";
-const siteAuthor = "@gojutin";
-const siteUrl = "https://gatsby-starter-typescript-deluxe.netlify.com";
+  "Sharing eCommerce Tips for New Entrepreneurs";
+const siteAuthor = "@vitalie";
+const siteUrl = "https://ecommlist.com";
 const siteImage = `${siteUrl}/icons/icon_512x512.png`;
-const siteKeywords = ["gatsby", "typescript", "starter", "javascript", "react"];
+const siteKeywords = ["ecommerce", "tips", "online-business", "ecommerce website", "ecommerce guides"];
 
 module.exports = {
   siteMetadata: {
