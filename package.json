@@ -1,14 +1,14 @@
 {
-  "name": "gatsby-starter-typescript-deluxe",
-  "description": "A Gatsby starter with TypeScript, Storybook, Styled Components, Jest, and more.",
+  "name": "EcommList",
+  "description": "Sharing eCommerce Tips for New Entrepreneurs.",
   "version": "0.0.4",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gojutin/gatsby-starter-typescript-deluxe"
+    "url": "https://github.com/vital1188/6sales"
   },
   "bugs": {
-    "url": "https://github.com/gojutin/gatsby-starter-typescript-deluxe/issues"
+    "url": "https://github.com/vital1188/6sales/issues"
   },
   "scripts": {
     "develop": "gatsby develop",
