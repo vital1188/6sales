@@ -5,7 +5,7 @@ import { Code } from "../components/code";
 import { Link } from "../components/link";
 
 const command =
-  "Top ecommerce  platforms to start an online";
+  "Top ecommerce  platforms to start an online business.";
 
 const App = () => (
   <Layout>

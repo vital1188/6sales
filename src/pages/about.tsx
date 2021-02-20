@@ -77,7 +77,7 @@ const AboutPage: React.FC<RouteComponentProps> = ({ location = {} }) => {
         Hi, you are on the <code>{path}</code> page!
       </h3>
 
-      <StyledComponent1>Ecommlist helps entrepreneurs (like you) to get started and grow an ecommerce business.</StyledComponent1>
+      <StyledComponent1>Ecommlist shares ecommerce tips and guidance to start an online business.</StyledComponent1>
       <StyledComponent2>
         This is for educational purposes.
       </StyledComponent2>
