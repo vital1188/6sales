@@ -70,16 +70,16 @@ const AboutPage: React.FC<RouteComponentProps> = ({ location = {} }) => {
   return (
     <Layout>
       <SEO
-        title="About gatsby-starter-template-deluxe"
-        description="Examples using the gatsby-starter-template-deluxe."
+        title="About Ecommlist"
+        description="Learn how to start an online store."
       />
       <h3>
         Hi, you are on the <code>{path}</code> page!
       </h3>
 
-      <StyledComponent1>I am a basic styled component.</StyledComponent1>
+      <StyledComponent1>Ecommlist helps entrepreneurs (like you) to get started and grow an ecommerce business.</StyledComponent1>
       <StyledComponent2>
-        My font color should change on a small device.
+        This is for educational purposes.
       </StyledComponent2>
 
       <BlocksWrapper>
