@@ -5,7 +5,7 @@ import { Code } from "../components/code";
 import { Link } from "../components/link";
 
 const command =
-  "gatsby new my-app https://github.com/gojutin/gatsby-starter-typescript-deluxe";
+  "Top ecommerce  platforms to start an online";
 
 const App = () => (
   <Layout>
