@@ -1,6 +1,6 @@
-const siteTitle = "gatsby-starter-typescript-deluxe";
+const siteTitle = "6sales";
 const siteDescription =
-  "A Gatsby starter with TypeScript, Storybook, Styled Components, Framer Motion, Jest, and more.";
+  "Sharing eCommerce tips and guides to help you build your own eCommerce website.";
 const siteAuthor = "@gojutin";
 const siteUrl = "https://gatsby-starter-typescript-deluxe.netlify.com";
 const siteImage = `${siteUrl}/icons/icon_512x512.png`;
