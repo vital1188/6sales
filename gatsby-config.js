@@ -1,6 +1,6 @@
 const siteTitle = "ecommlist";
 const siteDescription =
-  "Sharing eCommerce Tips for New Entrepreneurs";
+  "Sharing eCommerce Tips";
 const siteAuthor = "@vitalie";
 const siteUrl = "https://ecommlist.com";
 const siteImage = `${siteUrl}/icons/icon_512x512.png`;

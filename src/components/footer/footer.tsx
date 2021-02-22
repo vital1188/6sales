@@ -37,6 +37,6 @@ const Footer: React.FC = () => {
       </FooterContainer>
     </StyledFooter>
   );
-};
+}; 
 
 export { Footer };
