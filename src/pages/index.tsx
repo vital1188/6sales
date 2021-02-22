@@ -6,8 +6,8 @@ import { Link } from "../components/link";
 
 const command =
   "Top ecommerce  platforms to start an online business.";
-   "1. Shopify"
-   "2. BigCommerce"
+   "1. Shopify";
+   "2. BigCommerce";
 const App = () => (
   <Layout>
     <SEO />
